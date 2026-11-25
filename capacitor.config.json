@@ -1,0 +1,6 @@
+{
+  "appId": "com.pocketbudget.app",
+  "appName": "PocketBudget",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
